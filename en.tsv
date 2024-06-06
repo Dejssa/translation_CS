@@ -948,40 +948,40 @@ BUILDING_TITLE	Countdown Clock	BUILDING_TITLE	Countdown Clock	0	Гадзіньн
 871	Panda Sanctuary	BUILDING_TITLE	Panda Sanctuary	0	Запаведнік панд	
 871	Temple	BUILDING_TITLE	Temple	0	Храмавы комплэкс	
 871	Oriental Pearl Tower	BUILDING_TITLE	Oriental Pearl Tower	0	Oriental Pearl Tower	
-871	ChirpX Launch Control Center	BUILDING_TITLE	ChirpX Launch Control Center	0	ChirpX Launch Site	
-871	ChirpyBirthday Balloon Tours	BUILDING_TITLE	ChirpyBirthday Balloon Tours	0	Chirper Balloon Tours	
+871	ChirpX Launch Control Center	BUILDING_TITLE	ChirpX Launch Control Center	0	Узлётная пляцоўка «ChirpX»	
+871	ChirpyBirthday Balloon Tours	BUILDING_TITLE	ChirpyBirthday Balloon Tours	0	Балёнавыя туры «Chirper»	
 871	Prison	BUILDING_TITLE	Prison	0	Турма	
 871	Casino	BUILDING_TITLE	Casino	0	Казіно	
-871	LuxuryHotel	BUILDING_TITLE	LuxuryHotel	0	Luxury Hotel	
-871	Fancy Fountain	BUILDING_TITLE	Fancy Fountain	0	Fantastic Fountain	
-871	DrivingRange	BUILDING_TITLE	DrivingRange	0	Driving Range	
+871	LuxuryHotel	BUILDING_TITLE	LuxuryHotel	0	Раскошны гатэль	
+871	Fancy Fountain	BUILDING_TITLE	Fancy Fountain	0	Фантастычны фантан	
+871	DrivingRange	BUILDING_TITLE	DrivingRange	0	Пляц гольфу	
 871	253	BUILDING_TITLE	Zoo	0	Заапарк	
 871	Bus Station	BUILDING_TITLE	Bus Station	0	Аўтобусны прыпынак	
 871	Skatepark	BUILDING_TITLE	Skatepark	0	Скэйтпарк	
-871	9x15_RidingStable	BUILDING_TITLE	9x15_RidingStable	0	Riding Stable	
-871	Beachvolley Court	BUILDING_TITLE	Beachvolley Court	0	Beach Volleyball Court	
-871	2x8_FishingPier	BUILDING_TITLE	2x8_FishingPier	0	Fishing Pier	
-871	Large Airport	BUILDING_TITLE	Large Airport	0	International Airport	
-871	Cargo Hub	BUILDING_TITLE	Cargo Hub	0	Cargo Hub	
-871	Taxi Depot	BUILDING_TITLE	Taxi Depot	0	Taxi Depot	
-871	Taxi Stand	BUILDING_TITLE	Taxi Stand	0	Taxi Stand	
-871	MagickaPark	BUILDING_TITLE	MagickaPark	0	Magicka Theme Park 	
-871	2x2_Jet_ski_rental	BUILDING_TITLE	2x2_Jet_ski_rental	0	Jet Ski Rental	
-871	3x2_Fishing tours	BUILDING_TITLE	3x2_Fishing tours	0	Fishing Tours	
-871	4x4_Marina	BUILDING_TITLE	4x4_Marina	0	Marina	
-871	2x4_RestaurantPier	BUILDING_TITLE	2x4_RestaurantPier	0	Restaurant Pier	
-871	large_stand_01_anim	BUILDING_TITLE	large_stand_01_anim	0	Large Aircraft Stand	
-871	Large Terminal Style A	BUILDING_TITLE	Large Terminal Style A	0	Classic Large Terminal	
-871	Small 2 Story Terminal Style A	BUILDING_TITLE	Small 2 Story Terminal Style A	0	Classic Two-Story Terminal 	
-871	Small Terminal One Story Style A	BUILDING_TITLE	Small Terminal One Story Style A	0	Classic Airport Terminal 	
-871	medium_stand_01_anim	BUILDING_TITLE	medium_stand_01_anim	0	Medium Aircraft Stand 	
-871	Large Terminal Style B	BUILDING_TITLE	Large Terminal Style B	0	Modern Large Terminal	
-871	Large Terminal Style C	BUILDING_TITLE	Large Terminal Style C	0	Ultra Modern Large Terminal 	
-871	Small Terminal One Story Style B	BUILDING_TITLE	Small Terminal One Story Style B	0	Modern Airport Terminal 	
-871	Small Terminal One Story Style C	BUILDING_TITLE	Small Terminal One Story Style C	0	Ultra Modern Airport Terminal	
-871	Small Terminal Style B	BUILDING_TITLE	Small Terminal Style B	0	Modern Two-Story Terminal 	
-871	Small Terminal Style C	BUILDING_TITLE	Small Terminal Style C	0	Ultra Modern Two-Story Terminal 	
-871	small_stand_01_anim	BUILDING_TITLE	small_stand_01_anim	0	Small Aircraft Stand 	
+871	9x15_RidingStable	BUILDING_TITLE	9x15_RidingStable	0	Конюшня верхавой язды	
+871	Beachvolley Court	BUILDING_TITLE	Beachvolley Court	0	Пляц пляжнага валейболу	
+871	2x8_FishingPier	BUILDING_TITLE	2x8_FishingPier	0	Рыбацкі пірс	
+871	Large Airport	BUILDING_TITLE	Large Airport	0	Міжнароднае лётнішча	
+871	Cargo Hub	BUILDING_TITLE	Cargo Hub	0	Грузавы цэнтр	
+871	Taxi Depot	BUILDING_TITLE	Taxi Depot	0	Дэпо таксі	
+871	Taxi Stand	BUILDING_TITLE	Taxi Stand	0	Стаянка таксі	
+871	MagickaPark	BUILDING_TITLE	MagickaPark	0	Тэматычны парк «Mahičnaść»	
+871	2x2_Jet_ski_rental	BUILDING_TITLE	2x2_Jet_ski_rental	0	Арэнда гідрацыклаў	
+871	3x2_Fishing tours	BUILDING_TITLE	3x2_Fishing tours	0	Рыбалоўны тур	
+871	4x4_Marina	BUILDING_TITLE	4x4_Marina	0	Марына	
+871	2x4_RestaurantPier	BUILDING_TITLE	2x4_RestaurantPier	0	Пірс з рэстарацыяй	
+871	large_stand_01_anim	BUILDING_TITLE	large_stand_01_anim	0	Вялікі перон самалётаў	
+871	Large Terminal Style A	BUILDING_TITLE	Large Terminal Style A	0	Клясічны вялікі тэрмінал	
+871	Small 2 Story Terminal Style A	BUILDING_TITLE	Small 2 Story Terminal Style A	0	Клясічны двухпавярховы тэрмінал	
+871	Small Terminal One Story Style A	BUILDING_TITLE	Small Terminal One Story Style A	0	Клясічны тэрмінал лётнішча	
+871	medium_stand_01_anim	BUILDING_TITLE	medium_stand_01_anim	0	Сярэдні перон самалётаў	
+871	Large Terminal Style B	BUILDING_TITLE	Large Terminal Style B	0	Сучасны вялікі тэрмінал	
+871	Large Terminal Style C	BUILDING_TITLE	Large Terminal Style C	0	Звышсучасны вялікі тэрмінал	
+871	Small Terminal One Story Style B	BUILDING_TITLE	Small Terminal One Story Style B	0	Сучасны тэрмінал лётнішча	
+871	Small Terminal One Story Style C	BUILDING_TITLE	Small Terminal One Story Style C	0	Звышсучасны тэрмінал лётнішча	
+871	Small Terminal Style B	BUILDING_TITLE	Small Terminal Style B	0	Cучасны двухпавярховы тэрмінал	
+871	Small Terminal Style C	BUILDING_TITLE	Small Terminal Style C	0	Звышсучасны двухпавярховы тэрмінал	
+871	small_stand_01_anim	BUILDING_TITLE	small_stand_01_anim	0	Малы перон самалётаў	
 871	Concourse Hub 01 Style A	BUILDING_TITLE	Concourse Hub 01 Style A	0	Classic Concourse Hub	
 871	Concourse Hub 02 Style B	BUILDING_TITLE	Concourse Hub 02 Style B	0	Modern Concourse Hub	
 871	Concourse Hub 03 Style C	BUILDING_TITLE	Concourse Hub 03 Style C	0	Ultra Modern Concourse Hub	
@@ -15506,26 +15506,26 @@ UNLOCK_ROADS		UNLOCK_ROADS		0	New Roads
 UNLOCK_ZONES		UNLOCK_ZONES		0	New Zones	
 UNLOCK_SPECIALIZATION		UNLOCK_SPECIALIZATION		0	New Industry Specializations	
 UNLOCK_AREAS		UNLOCK_AREAS		0	New Areas	
-UNLOCK_AREA_TITLE		UNLOCK_AREA_TITLE		0	2 km x 2 km	
-UNLOCK_POLICIES		UNLOCK_POLICIES		0	New Policies	
-UNLOCK_MILESTONES		UNLOCK_MILESTONES		0	Milestones	
-UNLOCK_MONUMENTS		UNLOCK_MONUMENTS		0	Unique Buildings	
-UNLOCK_WONDERS		UNLOCK_WONDERS		0	Monuments	
-UNLOCK_ACHIEVEMENTS		UNLOCK_ACHIEVEMENTS		0	Achievements	
-UNLOCK_UNLOCKS		UNLOCK_UNLOCKS		0	Unlocks	
-UNLOCK_MILESTONE_TITLE	Milestone1	UNLOCK_MILESTONE_TITLE	Milestone1	0	Little Hamlet	
-7744	Milestone2	UNLOCK_MILESTONE_TITLE	Milestone2	0	Worthy Village	
-7744	Milestone3	UNLOCK_MILESTONE_TITLE	Milestone3	0	Tiny Town	
-7744	Milestone4	UNLOCK_MILESTONE_TITLE	Milestone4	0	Boom Town	
-7744	Milestone5	UNLOCK_MILESTONE_TITLE	Milestone5	0	Busy Town	
-7744	Milestone6	UNLOCK_MILESTONE_TITLE	Milestone6	0	Big Town	
-7744	Milestone7	UNLOCK_MILESTONE_TITLE	Milestone7	0	Small City	
-7744	Milestone8	UNLOCK_MILESTONE_TITLE	Milestone8	0	Big City	
-7744	Milestone9	UNLOCK_MILESTONE_TITLE	Milestone9	0	Grand City	
-7744	Milestone10	UNLOCK_MILESTONE_TITLE	Milestone10	0	Capital City	
-7744	Milestone11	UNLOCK_MILESTONE_TITLE	Milestone11	0	Colossal City	
-7744	Milestone12	UNLOCK_MILESTONE_TITLE	Milestone12	0	Metropolis	
-7744	Milestone13	UNLOCK_MILESTONE_TITLE	Milestone13	0	Megalopolis	
+UNLOCK_AREA_TITLE		UNLOCK_AREA_TITLE		0	2 км x 2 км	
+UNLOCK_POLICIES		UNLOCK_POLICIES		0	Новыя палітыкі	
+UNLOCK_MILESTONES		UNLOCK_MILESTONES		0	Вехі	
+UNLOCK_MONUMENTS		UNLOCK_MONUMENTS		0	Унікальныя будынкі	
+UNLOCK_WONDERS		UNLOCK_WONDERS		0	Помнікі	
+UNLOCK_ACHIEVEMENTS		UNLOCK_ACHIEVEMENTS		0	Дасягненьні	
+UNLOCK_UNLOCKS		UNLOCK_UNLOCKS		0	Адкрыта	
+UNLOCK_MILESTONE_TITLE	Milestone1	UNLOCK_MILESTONE_TITLE	Milestone1	0	Маленькі Гамлет	
+7744	Milestone2	UNLOCK_MILESTONE_TITLE	Milestone2	0	Шматабяцаючая вёска	
+7744	Milestone3	UNLOCK_MILESTONE_TITLE	Milestone3	0	Новае мястэчка	
+7744	Milestone4	UNLOCK_MILESTONE_TITLE	Milestone4	0	Уздымаюшчаеся мястэчка	
+7744	Milestone5	UNLOCK_MILESTONE_TITLE	Milestone5	0	Разьвітае мястэчка	
+7744	Milestone6	UNLOCK_MILESTONE_TITLE	Milestone6	0	Вялікае мястэчка	
+7744	Milestone7	UNLOCK_MILESTONE_TITLE	Milestone7	0	Новае места	
+7744	Milestone8	UNLOCK_MILESTONE_TITLE	Milestone8	0	Вялікае места	
+7744	Milestone9	UNLOCK_MILESTONE_TITLE	Milestone9	0	Буйнае места	
+7744	Milestone10	UNLOCK_MILESTONE_TITLE	Milestone10	0	Сталіца	
+7744	Milestone11	UNLOCK_MILESTONE_TITLE	Milestone11	0	Вялізарнае места	
+7744	Milestone12	UNLOCK_MILESTONE_TITLE	Milestone12	0	Мэтраполія	
+7744	Milestone13	UNLOCK_MILESTONE_TITLE	Milestone13	0	Мэгаполіс	
 UNLOCK_REQUIREMENTS		UNLOCK_REQUIREMENTS		0	Requirements	
 UNLOCK_REQUIREMENTS_HIDDEN		UNLOCK_REQUIREMENTS_HIDDEN		0	Requirements LOCKED	
 MILESTONE_POPULATION_PROG		MILESTONE_POPULATION_PROG		0	{0:N0} / {1:N0}	
